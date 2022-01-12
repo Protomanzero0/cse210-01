@@ -1,0 +1,8 @@
+to strengthen militia:
+    assumptions:
+        Soldiers ready to fight
+        Have enough resources to win
+    1.Construct forts as safeholds
+    2.Dig hills(?) to enclose armies
+    3.Build stone walls around armies, cities, land border
+    4.If fort weak, place more Soldiers
